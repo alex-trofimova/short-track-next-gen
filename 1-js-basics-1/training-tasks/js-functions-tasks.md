@@ -38,7 +38,9 @@ Supplement the object
         name: '', 
         age: 0, 
         gender: ''
+
+        ....
     };
 
-by necessary methods to fill its properties by arbitrary values and create corresponding instance by using chaining approach.
+by necessary methods to fill its properties by arbitrary values. Then create corresponding instance by using a chaining approach.
 
