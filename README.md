@@ -35,7 +35,7 @@ something
 
 ## Materials
 
-- [video](https://github.com/alex-trofimova/short-track-next-gen/1-js-basics/video-info/video-info.md)
+- [video](https://github.com/alex-trofimova/short-track-next-gen/blob/main/1-js-basics/video-info/video-info.md)
 
 - documentation:
   - [Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types)
@@ -48,6 +48,6 @@ something
     - [data types](https://www.codeguage.com/courses/js/data-types-quiz)
     - [functions closures](https://www.codeguage.com/courses/js/functions-closures-quiz)      
 
-- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/1-js-basics/training-tasks/js-fuctions-tasks.md) (optional):
+- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/1-js-basics/training-tasks/js-functions-tasks.md) (optional):
 
 - [module task](https://github.com/rolling-scopes-school/RS-Short-Track/wiki/1.-Auto-Complete)
