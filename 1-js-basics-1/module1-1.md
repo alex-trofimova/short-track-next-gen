@@ -1,4 +1,4 @@
-# Module 1. JS basics
+# Module 1. JS basics: Functions
 
 ## Questions for checkpoint
 
