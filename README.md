@@ -18,6 +18,8 @@ something
 
  [JS basics: Classes, OOP, inheritance](https://github.com/alex-trofimova/short-track-next-gen/blob/main/1-js-basics-2/module1-2.md)
 
+ [JS basics: Data mapping & filtering](https://github.com/alex-trofimova/short-track-next-gen/blob/main/1-js-basics-3/module1-3.md)
+
  ## Module 2.
 
  TypeScript & Webpack
