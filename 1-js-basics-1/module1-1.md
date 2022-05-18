@@ -30,10 +30,10 @@
 
 ## Tasks
 
-- quizes (optional): 
+- quizes: 
     - [data types](https://www.codeguage.com/courses/js/data-types-quiz)
     - [functions closures](https://www.codeguage.com/courses/js/functions-closures-quiz)      
 
-- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/1-js-basics-1/training-tasks/js-functions-tasks.md) (optional):
+- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/1-js-basics-1/training-tasks/js-functions-tasks.md)
 
-- [module task](https://github.com/rolling-scopes-school/RS-Short-Track/wiki/1.-Auto-Complete)
+- [module task 1](https://github.com/rolling-scopes-school/RS-Short-Track/wiki/1.-Auto-Complete)

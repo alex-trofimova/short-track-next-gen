@@ -1,5 +1,6 @@
 ## Time codes
 
+00:00  
 04:20 Variables  
 12:30 Scope. Closure  
 32:34 Hoisting   
