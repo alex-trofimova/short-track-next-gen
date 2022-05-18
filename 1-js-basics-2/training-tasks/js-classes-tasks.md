@@ -1,6 +1,6 @@
 ## Task 1 (Context loss)
 
-Correct the following code so instead of `underfined` function `fn` return the actual value:
+Correct the following code so instead of `underfined` function `fn` returns the actual value:
 ```javascript
 'use strict';
 const man = {
