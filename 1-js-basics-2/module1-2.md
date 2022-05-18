@@ -1,4 +1,4 @@
-# Module 1. JS basics: Functions
+# Module 1. JS basics: Classes, OOP, inheritance
 
 ## Questions for checkpoint
 
