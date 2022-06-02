@@ -1,7 +1,5 @@
 # Module 1. JS basics: Data mapping & filtering
 
-to be updated
-
 ## Materials
 
 - [video](https://github.com/alex-trofimova/short-track-next-gen/blob/main/1-js-basics-3/video-info/video-info.md)
