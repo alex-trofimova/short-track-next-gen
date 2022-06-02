@@ -7,8 +7,8 @@ to be updated
 - [video](https://github.com/alex-trofimova/short-track-next-gen/blob/main/1-js-basics-3/video-info/video-info.md)
 
 - documentation:
-[Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections)
-[.map method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+    - [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections)
+    - [.map method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ## Tasks
 

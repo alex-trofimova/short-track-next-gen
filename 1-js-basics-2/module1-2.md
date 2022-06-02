@@ -6,16 +6,21 @@
 2. What are the ways to override context in js?
 3. What are the 3 principles of OOP?
 4. What is SOLID?
-5. What are object prototypes?
-6. What is Object.assign?
-7. What is inheritance?
-8. What are 2 steps to implement inheritance in ES5?
-9. What do super keyword do?
-10. Which datastructures where introduced in ES6?
-11. What are the differences between Map and WeekMap?
-12. What is the rest parameter and spread operator?
-13. What are the differences between the keywords for fields and methods of classes - public, private, protected.
-14. How to determine if a property exists in an object?
+5. How to check if it is an array?
+6. Name 3 ways to create an object.
+7. What are object prototypes?
+8. What is destructuring assignment?
+9. How to define if some property exists in an object?
+10. What is Object.assign?
+11. What is the difference between deep and shallow copies of an object?
+12. What is inheritance?
+13. What are 2 steps to implement inheritance in ES5?
+14. What do super keyword do?
+15. Which datastructures where introduced in ES6?
+16. What are the differences between Map and WeekMap?
+17. What is the rest parameter and spread operator?
+18. What are the differences between the keywords for fields and methods of classes - public, private, protected.
+
 
 
 ## Materials
