@@ -1,11 +1,11 @@
 ## Task 1 (Filtering)
 
-Write a general function `_filterByDataBy(arr, pred)`, that filters an `arr` array of data by some `pred` predicate function. Implement this function with such arguments that output is an array of just data with `name` property which 1) doesn't contain the word 'County' 2)consists of **three** words). Use mocked data from ???
+Write a general function `_filterByDataBy(arr, pred)`, that filters an `arr` array of data by some `pred` predicate function. Implement this function with such arguments that output is an array of just data with `name` property which a) doesn't contain the word 'County' b) consists of **three** words). Use mocked data from ???
 
 ***
 ## Task 2 (Pipe filtering)
 
-Implement previous task but provide filtering by both criteria 1) & 2) in one function.
+Implement previous task but provide filtering by both criteria a) & b) in one pipe.
 
 ***
 ## Task 3 (Picking based on carrying) 
