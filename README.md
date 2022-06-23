@@ -22,4 +22,8 @@ something
 
  ## Module 2.
 
- [TypeScript & Webpack](https://github.com/alex-trofimova/short-track-next-gen/blob/main/2-ts-webpack/module2.md)
+ [Webpack](https://github.com/alex-trofimova/short-track-next-gen/blob/main/2-webpack/module2.md)
+
+ ## Module 3.
+
+ [Typescript](https://github.com/alex-trofimova/short-track-next-gen/blob/main/3-typescript/module3.md)
