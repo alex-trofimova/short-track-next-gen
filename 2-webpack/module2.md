@@ -19,4 +19,4 @@
 
 ## Tasks
 
-- [training tasks?]()
+- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/2-webpack/training-tasks/webpack-tasks.md)
