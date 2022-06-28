@@ -16,4 +16,4 @@ Write a general `pick` function that return all values of  a certain property. U
 ## Task 4 
 
 Write a function that creates an array of unique values from the given array     
-`makeUnique([1, 3, 2, 3, 5, 3, 1])` ouputs `[1, 3, 2, 5]`
+`unique([1, 3, 2, 3, 5, 3, 1])` ouputs `[1, 3, 2, 5]`
