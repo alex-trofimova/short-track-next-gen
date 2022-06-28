@@ -16,11 +16,13 @@
 1. Create a `webpack.config.js` file & set `entry` & `output` points there. 
 2. Activate `HtmlWebpackPlugin` to update `index.html` automatically.
 3. Add the following `component.js` file in the `src` folder. By using it add 2 different elements on the webpage.
+```javascript
+    const component = (text = "Hello, World!", type = "h1") => {
+        const element = document.createElement(type);
+        element.innerHTML = text;
+        return element;
+    };
 
-        export default (text = "Hello, World!", type = "h1") => {
-            const element = document.createElement(type);
-            element.innerHTML = text;
-            return element;
-        };
-
+    export default component;
+```
 4. Activate `css-loader` & `style-loader` to add some styles to your elements.
