@@ -25,4 +25,4 @@
 
 ## Tasks
 
-- [training tasks?]()
+- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/3-typescript/training-tasks/typescript-tasks.md)
