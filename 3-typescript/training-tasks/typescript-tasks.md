@@ -17,3 +17,11 @@
 ***
 
 ## Task 2 (Basic types)
+1. Create a `Student` class that is a child of the `Person` class. There should be at least `name` & `age` fields as well as methods to get the value of these fields.
+2. Create a `Group` class that has:     
+2.1. an array of students, added to the group;   
+2.2. a method to add a student to the group;  
+2.3. a method `getNameList` to get the list of the students' names as an array;  
+2.4. a method `getAverageAge` to get the average age of the students of the group;
+3. Create several objects of `Student` class & at least 1 object of `Group` class. Output to console the result of the `getNameList` & `getAverageAge` methods.
+ 
