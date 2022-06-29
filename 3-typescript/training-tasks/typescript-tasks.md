@@ -6,7 +6,7 @@
 
 **Step 3.** Generate `tsconfig.json` file (by `tsc --init`). Modify the file so that root directory is `src` & output one is `dist`.
 
-**Step 4.** Create a `src` folder and put an `index.js` file in it so that it contains `console.log("some text")`.
+**Step 4.** Create a `src` folder and put an `index.ts` file in it so that it contains `console.log("some text")`.
 
 **Step 5.** Configure ESLint for Typescript, use plugin `typescript-eslint/recommended`.
 
