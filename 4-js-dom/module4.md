@@ -48,3 +48,4 @@
     - [HTML DOM](https://www.codeguage.com/courses/js/html-dom-quiz)
     - [HTML DOM Accessing Elements](https://www.codeguage.com/courses/js/html-dom-accessing-elements-quiz)  
 - [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/4-js-dom/training-tasks/js-dom-tasks.md)
+- [module task ?](?):
