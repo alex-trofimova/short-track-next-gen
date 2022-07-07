@@ -27,3 +27,7 @@ something
  ## Module 3.
 
  [Typescript](https://github.com/alex-trofimova/short-track-next-gen/blob/main/3-typescript/module3.md)
+
+## Module 4.
+
+ [DOM](https://github.com/alex-trofimova/short-track-next-gen/blob/main/4-js-dom/module4.md)
