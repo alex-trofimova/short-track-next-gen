@@ -30,4 +30,4 @@ something
 
 ## Module 4.
 
- [DOM](https://github.com/alex-trofimova/short-track-next-gen/blob/main/4-js-dom/module4.md)
+ [JS DOM](https://github.com/alex-trofimova/short-track-next-gen/blob/main/4-js-dom/module4.md)
