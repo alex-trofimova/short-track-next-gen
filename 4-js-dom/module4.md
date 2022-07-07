@@ -9,27 +9,15 @@
 5. How you can add (remove) a class to an element?
 6. What is an event flow?
 7. What is event bubbling?
-8. What is event capturing?
-9. What are events? Example of different events
-10. Name different ways of adding event listener to the Element.
-11. How can you add event listener that will be fired only one time?
-12. What is the difference between target and currentTarget?
-13. What is the use of stopPropagation and stopImmediatePropagation methods?
-14. Explain the use of preventDefault method
-15. What is an event delegation technique?
-16. What are the ways to center a div?
-17. What are the ways to create 2column markup?
-18. What is a difference between inline and block element?
-19. What is a block model?
-20. What is a critical rendering path?
-21. What is reflow and repaint?
-22. How to make sure that script is loading asynchronously?
-23. What is a critical css?
-24. What is requestAnimationFrame?
-25. What is requestIdleCallback?
-26. Name all ways to create css animation
-27. Name all ways to create animation usnig JS
-28. Name all the ways you know to optimize site loading performarnce?
+8. What is event target?
+9. What is event capturing?
+10. What are events? Example of different events
+11. Name different ways of adding event listener to the Element.
+12. How can you add event listener that will be fired only one time?
+13. What is the difference between target and currentTarget?
+14. What is the use of stopPropagation and stopImmediatePropagation methods?
+15. Explain the use of preventDefault method
+16. What is an event delegation technique?
 
 
 ## Materials
