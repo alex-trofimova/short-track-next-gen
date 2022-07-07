@@ -9,7 +9,7 @@ There is some parent block with a button and another child block.  One can use t
 </div>
 ```
 The child block is hidden initially.  
-Implement js code so this block appeares while clicking on the button and disappears while clicking at some other place inside parent block.
+Implement js code so child block appeares while clicking on the button and disappears while clicking at some other place inside parent block.
 
 ***
 
