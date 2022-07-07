@@ -1,6 +1,6 @@
 ## Task 1 (Event propagation)
 There is some parent block with a button and another child block.  One can use the following markup:
-```javascript       
+```html       
 <div id="container">
 	<button>show text</button>
 	<div id="block">
