@@ -31,3 +31,7 @@ something
 ## Module 4.
 
  [JS DOM](https://github.com/alex-trofimova/short-track-next-gen/blob/main/4-js-dom/module4.md)
+
+## Module 5.
+
+ [Browser JS](https://github.com/alex-trofimova/short-track-next-gen/blob/main/5-browser-js/module5.md)
