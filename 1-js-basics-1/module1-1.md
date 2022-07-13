@@ -5,19 +5,23 @@
 1. What is GIT?
 2. What is linter?
 3. What is prettier?
-4. Name all datatypes in js
-5. What is the use of Number.isNaN/isNaN function?
-6. What is the difference between var, let and const?
-7. What is a Temporal Dead Zone?
-8. What are 3 ways to call a function in js?
-9. What is a difference between arrow function and 'regular' function?
-10. What is hoisting?
-11. What is a pure function?
-12. What is closure?
-13. What is currying?
-14. What is arguments?
-15. How to use 'arguments' in arrow function?
-16. What is lexical environment?
+4. Name all datatypes in js.
+5. What is the difference between reference types and primitive types?
+6. What is the use of Number.isNaN/isNaN function?
+7. What is scope in JS? 
+8. Name different scopes.
+9. What is the difference between var, let and const?
+10. What is a Temporal Dead Zone?
+11. What are 3 ways to call a function in js?
+12. What is a difference between arrow function and 'regular' function?
+13. What is hoisting?
+14. What is the difference in function declaration and function expression hoisting
+15. What is a pure function?
+16. What is closure?
+17. What is currying?
+18. What is arguments?
+19. How to use 'arguments' in arrow function?
+20. What is lexical environment?
 
 ## Materials
 
