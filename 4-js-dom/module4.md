@@ -1,4 +1,4 @@
-# Module 4. JS DOM & Browser JS
+# Module 4. JS DOM
 
 ## Questions for checkpoint
 
