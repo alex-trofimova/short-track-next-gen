@@ -21,12 +21,11 @@
 
 - [video](https://github.com/alex-trofimova/short-track-next-gen/blob/main/5-browser-js/video-info/video-info.md)
 
-- documentation: 
-    - [Node](https://developer.mozilla.org/en-US/docs/Web/API/Node)
-    - [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
-    - [Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- documentation:
+    - [CSS animation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+    - [Web performance](https://developer.mozilla.org/en-US/docs/Web/Performance)
     
 
-## Tasks
+## Task
 
-- course
+- [Website performance optimisation](https://www.udacity.com/course/website-performance-optimization--ud884): self-paced course
