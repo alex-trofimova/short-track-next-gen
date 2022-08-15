@@ -35,3 +35,7 @@ something
 ## Module 5.
 
  [Browser JS](https://github.com/alex-trofimova/short-track-next-gen/blob/main/5-browser-js/module5.md)
+
+## Module 6.
+
+ [Async JS](https://github.com/alex-trofimova/short-track-next-gen/blob/main/6-async-js/module6.md)
