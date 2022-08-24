@@ -39,3 +39,7 @@ something
 ## Module 6.
 
  [Async JS](https://github.com/alex-trofimova/short-track-next-gen/blob/main/6-async-js/module6.md)
+
+## Module 7.
+
+ [HTTP](https://github.com/alex-trofimova/short-track-next-gen/blob/main/7-http/module7.md)
