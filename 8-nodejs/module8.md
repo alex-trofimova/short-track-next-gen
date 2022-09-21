@@ -23,6 +23,6 @@
 
 ## Tasks
 
-- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/8-nodejs/training-tasks/http.md)
+- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/8-nodejs/training-tasks/nodejs-tasks.md)
 - [module task 1](https://github.com/rolling-scopes-school/RS-Short-Track/wiki/7.--json2csv)
 - [module task 2](https://github.com/rolling-scopes-school/RS-Short-Track/wiki/8.-Autocomplete-Backend) 
