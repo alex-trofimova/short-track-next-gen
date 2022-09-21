@@ -43,3 +43,7 @@ something
 ## Module 7.
 
  [HTTP](https://github.com/alex-trofimova/short-track-next-gen/blob/main/7-http/module7.md)
+
+## Module 8.
+
+ [NodeJS](https://github.com/alex-trofimova/short-track-next-gen/blob/main/8-nodejs/module8.md)
