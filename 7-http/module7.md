@@ -27,5 +27,4 @@
 
 ## Tasks
 
-- [training tasks](https://github.com/alex-trofimova/short-track-next-gen/blob/main/7-http/training-tasks/http.md)
 - [module task](https://github.com/rolling-scopes-school/RS-Short-Track/wiki/5.-Load) 
