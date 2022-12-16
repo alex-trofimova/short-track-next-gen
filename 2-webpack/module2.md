@@ -14,7 +14,10 @@
 
 - [video](https://github.com/alex-trofimova/short-track-next-gen/blob/main/2-webpack/video-info/video-info.md)
 
-- documentation: [Webpack](https://webpack.js.org/concepts/)
+- documentation:   
+   - [Webpack - concepts](https://webpack.js.org/concepts/)
+   - [Webpack - getting started](https://webpack.js.org/guides/getting-started/)
+   - [Babel-loader](https://webpack.js.org/loaders/babel-loader/#root)
     
 
 ## Tasks
