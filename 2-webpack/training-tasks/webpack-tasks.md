@@ -4,7 +4,7 @@
 
 **Step 2.** Install webpack locally, and install webpack-cli
 
-**Step 3.**  Add npm script with a `build` command name and `webpack` value into the "scripts" property of your `package.json file`. Choose `development` as a mode option.
+**Step 3.**  Add npm script to run webpack into the "scripts" property of your `package.json file`. Choose `development` as a mode option.
 
 **Step 4.** Create a `src` folder and put an `index.js` file in it so that it contains `console.log("some text")` or some other simple script.
 
